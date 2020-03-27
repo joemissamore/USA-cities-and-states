@@ -1,5 +1,9 @@
 Collecting this data would not be possible without the support from <a href="https://seobots.io/" target="_blank">SEOBOTS.io</a>👈🤖
 
+## To download without cloning
+`curl https://raw.githubusercontent.com/joemissamore/USA-cities-and-states/master/us_cities_states_counties.csv > /your/local/dir/`
+
+
 US Cities, Counties and States 
 ====================
 
